@@ -38,3 +38,11 @@
 .space{
     padding: 0.5rem;
 }
+
+.section{
+    background-color:var(--primarycolor);
+    padding: 2rem;
+    text-align: center;
+    border-top-left-radius: 10%;
+    border-bottom-right-radius: 10%;
+}
