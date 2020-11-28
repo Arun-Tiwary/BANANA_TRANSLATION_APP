@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:wght@400;500&display=swap');
+
+:root{
+    --primarycolor:#FCD34D;
+}
+
+.body{
+    font-family: 'Fira Sans', sans-serif;
+}
+
+.home{
+    background-color:var(--primarycolor);
+    padding: 2rem;
+    text-align: center;
+    border-top-left-radius: 10%;
+    border-bottom-right-radius: 10%;
+}
+
+.text{
+    padding: 4rem;
+    font-size: 222%;
+    text-align: center;
+    margin: auto;
+    display: block;
+    border-width: 3each;
+}
+.button{
+    padding: 1rem;
+    display: block;
+    margin: auto;
+    width: 25%;
+    background-color: var(--primarycolor);
+    font-size: 222%;
+    font:bold;
+    border-collapse: separate;
+    border-spacing: ;
+}
+.space{
+    padding: 0.5rem;
+}
