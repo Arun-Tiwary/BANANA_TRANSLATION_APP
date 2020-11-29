@@ -24,7 +24,7 @@
     display: block;
     border-width: 3each;
 }
-.button{
+.translate{
     padding: 1rem;
     display: block;
     margin: auto;
@@ -37,6 +37,15 @@
 }
 .space{
     padding: 0.5rem;
+}
+#output{
+    padding: 4rem;
+    font-size: 222%;
+    text-align: center;
+    margin: auto;
+    display: block;
+    border-width: 3each;
+
 }
 
 .section{
